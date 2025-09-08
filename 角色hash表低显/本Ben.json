@@ -38,9 +38,8 @@
     ]
   },
   {
-    "component_name": "Hair-头发",
+    "component_name": "Face-脸",
     "VertexLimit": "7e77201a",
-    "Position": "3e601b7c",
     "Texcoord": "893553e3",
     "Blend": "18d26bd2",
     "ib": "9c4f1a9a",
