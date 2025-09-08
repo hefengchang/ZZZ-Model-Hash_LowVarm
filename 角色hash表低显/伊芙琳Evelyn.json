@@ -239,7 +239,7 @@
         [
           "NormalMap",
           ".dds",
-          "ebac056e"
+          "798adba3"
         ]
       ]
     ]
@@ -347,32 +347,28 @@
   },
   {
     "component_name": "silk string-丝弦",
-    "VertexLimit": "4ff726df",
-    "Position": "06c6a436",
-    "Texcoord": "2c5dcebd",
-    "Blend": "99555cf2",
     "ib": "af10bd11",
     "texture_hashes": [
       [
         [
           "Diffuse",
           ".dds",
-          "0e5c3c97"
+          "65a7592d"
         ],
         [
           "NormalMap",
           ".dds",
-          "ebac056e"
+          "798adba3"
         ],
         [
           "LightMap",
           ".dds",
-          "e1434e0d"
+          "eb414a98"
         ],
         [
           "MaterialMap",
           ".dds",
-          "b2718585"
+          "e680f0c7"
         ]
       ]
     ]
