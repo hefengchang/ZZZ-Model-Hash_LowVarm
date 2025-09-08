@@ -230,10 +230,12 @@
     "blend_vb": "d141908c",
     "ib": "ff7e9b40",
     "object_indexes": [
-      0
+      0,
+      5166
     ],
     "object_classifications": [
-      "A"
+      "A",
+      "B"
     ],
     "texture_hashes": [
       [
@@ -257,7 +259,28 @@
           ".dds",
           "e0433c18"
         ]
-      ]
+      ],
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "b20c7e8b"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "798adba3"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "7967c15f"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "2daeed33"
+        ]
     ]
   }
 ]
