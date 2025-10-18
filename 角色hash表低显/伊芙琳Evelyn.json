@@ -243,7 +243,7 @@
         ]
       ]
     ]
-  }，
+  },
   {
     "component_name": "Face-脸",
     "VertexLimit": "c6afc18c",
@@ -253,11 +253,11 @@
     "ib": "ddf4efa6",
     "object_indexes": [
       0,
-      7203，
+      7203,
       9537
     ],
     "object_classifications": [
-      "A"，
+      "A",
       "B",
       "C"
     ],
