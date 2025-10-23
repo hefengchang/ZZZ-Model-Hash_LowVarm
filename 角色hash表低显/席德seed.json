@@ -117,7 +117,7 @@
     ]
   },
   {
-    "component_name": "ExteriorDecoration-外部装饰",
+    "component_name": "Accessories-配饰",
     "draw_vb": "c24ebf3b",
     "position_vb": "12d6c223",
     "texcoord_vb": "99be167f",
@@ -270,7 +270,7 @@
         ]
       ]
     ]
-  }，
+  },
   {
     "component_name": "weapon-常驻状态",
     "draw_vb": "0238f9fc",
@@ -332,7 +332,7 @@
         [
           "NormalMap",
           ".dds",
-          "b35534a9"
+          "b87d9c50"
         ],
         [
           "LightMap",
@@ -499,5 +499,4 @@
       ]
     ]
   }
-
 ]
