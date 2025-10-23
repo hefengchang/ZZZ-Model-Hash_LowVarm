@@ -335,12 +335,12 @@
           "NormalMap",
           ".dds",
           "798adba3"
-        ]，
+        ],
         [
-          "LightMap"，
-          ".dds"，
+          "LightMap",
+          ".dds",
           "772b915b"
-        ]，
+        ],
         [
           "MaterialMap",
           ".dds",
@@ -349,7 +349,7 @@
       ],
       [
         [
-          "Diffuse"，
+          "Diffuse",
           ".dds",
           "c64aea70"
         ],
@@ -385,3 +385,4 @@
     ]
   }
 ]
+
