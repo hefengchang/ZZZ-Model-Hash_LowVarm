@@ -115,6 +115,28 @@
           ".dds",
           "03df0be9"
         ]
+      ],
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "8212713f"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "798adba3"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "cf8ecb3b"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "03df0be9"
+        ]
       ]
     ]
   },
@@ -189,7 +211,7 @@
         ],
         [
           "MaterialMap",
-          ".dds",
+          ".dds"，
           "98e011bc"
         ]
       ],
