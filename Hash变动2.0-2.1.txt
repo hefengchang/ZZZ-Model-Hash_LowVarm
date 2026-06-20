@@ -76,3 +76,10 @@
   position_vb: a3b56c9b -> 2a7b9144
   texcoord_vb: 3d3199c5 -> 0c9062c5
   blend_vb: be70426a -> 523cf99d
+
+--------------------
+作者: 踩蘑菇网绿小林子制作，Github-GreenLzz-Make
+声明: 请勿私自转载，否则后期不再上传。
+网址1: https://github.com/hefengchang
+网址2: https://www.caimogu.cc/user/1761398.html
+--------------------
