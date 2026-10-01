@@ -10,6 +10,10 @@
       0,
       16986
     ],
+    "object_index_counts": [
+      16986,
+      1572
+    ],
     "object_classifications": [
       "A",
       "B"
@@ -86,6 +90,9 @@
     "object_indexes": [
       0
     ],
+    "object_index_counts": [
+      40842
+    ],
     "object_classifications": [
       "A"
     ],
@@ -110,6 +117,48 @@
           "MaterialMap",
           ".dds",
           "5dce2408"
+        ]
+      ]
+    ],
+    "_author": "踩蘑菇网绿林小子制作，Github-GreenLzz-Make"
+  },
+  {
+    "component_name": "Hands&Accessories-手和配饰",
+    "draw_vb": "2b5dc947",
+    "position_vb": "82e7c056",
+    "texcoord_vb": "6d482e21",
+    "blend_vb": "d06a9206",
+    "ib": "294a319a",
+    "object_indexes": [
+      0
+    ],
+    "object_index_counts": [
+      16848
+    ],
+    "object_classifications": [
+      "A"
+    ],
+    "texture_hashes": [
+      [
+        [
+          "Diffuse",
+          ".dds",
+          "b33a9770"
+        ],
+        [
+          "NormalMap",
+          ".dds",
+          "798adba3"
+        ],
+        [
+          "LightMap",
+          ".dds",
+          "5e12acc1"
+        ],
+        [
+          "MaterialMap",
+          ".dds",
+          "40fca454"
         ]
       ]
     ],
